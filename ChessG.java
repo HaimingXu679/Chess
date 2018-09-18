@@ -10,7 +10,7 @@ import java.util.*;
 import java.util.ArrayList;
 
 /**
- * Chess created by Temi and Eric
+ * GUI by Temi Omitoogun, algorithm by Haiming Xu
  * @author HaimingXu and TemiOmitoogun
  * 11/30/2016 
  * Version 8
